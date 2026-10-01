@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Win11 Web OS - Virtual Windows Simulator",
+  "description": "A full-featured, interactive Windows desktop simulator with draggable windows, Start menu, File Explorer, Terminal, Paint, Games, Media Player, and ambient Virtual Window.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
